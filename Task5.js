@@ -182,3 +182,4 @@ function rollDice() {
 rollDice();  // 4 (random)
 console.log(rollDice()); // Output: (random integer between 1 and 6)
 
+
